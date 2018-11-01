@@ -16,15 +16,15 @@ while (x!=y)
 4. Cetak nilai X
 
 Berikut programnya
-[img]!https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%201/screenshot_program_soal1.png
+![img]https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%201/screenshot_program_soal1.png
 
 
 Berikut hasil percobaan soal 1a
-[img]!https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%201/screenshoot_hasil_1A.png
+![img]https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%201/screenshoot_hasil_1A.png
 
 
 Berikut hasil percobaan soal 1b
-[img]!https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%201/screenshoot_hasil_1B.png
+![img]https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%201/screenshoot_hasil_1B.png
 
 
 
@@ -43,8 +43,8 @@ X=X+10;
 
 
 Berikut programnya
-[img]!https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%202/soal%202/screenshot_program_soal2.png
+![img]https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%202/soal%202/screenshot_program_soal2.png
 
 
 Berikut hasil percobaan soal 2
-[img]!https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%202/soal%202/screenshoot_hasil_soal2.png
+![img]https://github.com/etrianmartianto/UTS_ALGORITMA/blob/master/soal%202/soal%202/screenshoot_hasil_soal2.png
